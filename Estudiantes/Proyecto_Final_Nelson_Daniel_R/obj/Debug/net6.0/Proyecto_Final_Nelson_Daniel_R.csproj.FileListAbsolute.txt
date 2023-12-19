@@ -1,0 +1,14 @@
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\bin\Debug\net6.0\Proyecto_Final_Nelson_Daniel_R.exe
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\bin\Debug\net6.0\Proyecto_Final_Nelson_Daniel_R.deps.json
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\bin\Debug\net6.0\Proyecto_Final_Nelson_Daniel_R.runtimeconfig.json
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\bin\Debug\net6.0\Proyecto_Final_Nelson_Daniel_R.dll
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\bin\Debug\net6.0\Proyecto_Final_Nelson_Daniel_R.pdb
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\obj\Debug\net6.0\Proyecto_Final_Nelson_Daniel_R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\obj\Debug\net6.0\Proyecto_Final_Nelson_Daniel_R.AssemblyInfoInputs.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\obj\Debug\net6.0\Proyecto_Final_Nelson_Daniel_R.AssemblyInfo.cs
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\obj\Debug\net6.0\Proyecto_Final_Nelson_Daniel_R.csproj.CoreCompileInputs.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\obj\Debug\net6.0\Proyecto_Final_Nelson_Daniel_R.dll
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\obj\Debug\net6.0\refint\Proyecto_Final_Nelson_Daniel_R.dll
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\obj\Debug\net6.0\Proyecto_Final_Nelson_Daniel_R.pdb
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\obj\Debug\net6.0\Proyecto_Final_Nelson_Daniel_R.genruntimeconfig.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\Proyecto_Final_Nelson_Daniel_R\obj\Debug\net6.0\ref\Proyecto_Final_Nelson_Daniel_R.dll

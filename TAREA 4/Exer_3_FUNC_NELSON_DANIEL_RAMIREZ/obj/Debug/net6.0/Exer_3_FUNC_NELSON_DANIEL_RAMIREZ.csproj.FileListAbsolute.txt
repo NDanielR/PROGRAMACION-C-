@@ -1,0 +1,14 @@
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\bin\Debug\net6.0\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.exe
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\bin\Debug\net6.0\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.deps.json
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\bin\Debug\net6.0\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.runtimeconfig.json
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\bin\Debug\net6.0\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.dll
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\bin\Debug\net6.0\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.pdb
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\obj\Debug\net6.0\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\obj\Debug\net6.0\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.AssemblyInfoInputs.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\obj\Debug\net6.0\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.AssemblyInfo.cs
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\obj\Debug\net6.0\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.csproj.CoreCompileInputs.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\obj\Debug\net6.0\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.dll
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\obj\Debug\net6.0\refint\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.dll
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\obj\Debug\net6.0\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.pdb
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\obj\Debug\net6.0\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.genruntimeconfig.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ\obj\Debug\net6.0\ref\Exer_3_FUNC_NELSON_DANIEL_RAMIREZ.dll

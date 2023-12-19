@@ -1,0 +1,1 @@
+pide el numero de estudiantes a validar despues pide el nombre de estudiante, tipo de pago, y carrera a estudiar, dependiendo de estos datos usa funciones para determinar el descuento total de los estudiantes por carrera el numero de estudiantes de cada carrera y imprime los datos en consola

@@ -1,0 +1,1 @@
+ingresa un numero entero valida que sea entero lo separa por caracteres usando un array y lo imprime en consola de manera invertida

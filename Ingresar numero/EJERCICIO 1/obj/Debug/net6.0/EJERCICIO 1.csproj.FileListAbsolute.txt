@@ -1,0 +1,14 @@
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\bin\Debug\net6.0\EJERCICIO 1.exe
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\bin\Debug\net6.0\EJERCICIO 1.deps.json
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\bin\Debug\net6.0\EJERCICIO 1.runtimeconfig.json
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\bin\Debug\net6.0\EJERCICIO 1.dll
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\bin\Debug\net6.0\EJERCICIO 1.pdb
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\obj\Debug\net6.0\EJERCICIO 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\obj\Debug\net6.0\EJERCICIO 1.AssemblyInfoInputs.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\obj\Debug\net6.0\EJERCICIO 1.AssemblyInfo.cs
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\obj\Debug\net6.0\EJERCICIO 1.csproj.CoreCompileInputs.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\obj\Debug\net6.0\EJERCICIO 1.dll
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\obj\Debug\net6.0\refint\EJERCICIO 1.dll
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\obj\Debug\net6.0\EJERCICIO 1.pdb
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\obj\Debug\net6.0\EJERCICIO 1.genruntimeconfig.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\Proyecto_Final\EJERCICIO 1\obj\Debug\net6.0\ref\EJERCICIO 1.dll

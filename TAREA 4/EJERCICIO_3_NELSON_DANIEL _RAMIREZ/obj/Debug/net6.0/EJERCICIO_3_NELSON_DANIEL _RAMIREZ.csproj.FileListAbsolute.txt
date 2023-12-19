@@ -1,0 +1,14 @@
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\bin\Debug\net6.0\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.exe
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\bin\Debug\net6.0\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.deps.json
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\bin\Debug\net6.0\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.runtimeconfig.json
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\bin\Debug\net6.0\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.dll
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\bin\Debug\net6.0\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.pdb
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\obj\Debug\net6.0\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\obj\Debug\net6.0\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.AssemblyInfoInputs.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\obj\Debug\net6.0\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.AssemblyInfo.cs
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\obj\Debug\net6.0\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.csproj.CoreCompileInputs.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\obj\Debug\net6.0\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.dll
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\obj\Debug\net6.0\refint\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.dll
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\obj\Debug\net6.0\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.pdb
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\obj\Debug\net6.0\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.genruntimeconfig.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD-FUNDAMENTOS DE PROGRAMICION\TAREA 4\EJERCICIO_3_NELSON_DANIEL _RAMIREZ\obj\Debug\net6.0\ref\EJERCICIO_3_NELSON_DANIEL _RAMIREZ.dll

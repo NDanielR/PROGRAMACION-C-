@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejerccio_6_Nelson_Daniel_Ramirez/1.0.0": {
+        "runtime": {
+          "Ejerccio_6_Nelson_Daniel_Ramirez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejerccio_6_Nelson_Daniel_Ramirez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
